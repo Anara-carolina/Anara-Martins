@@ -116,8 +116,4 @@ export default () => {
 
 
   return container;
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> 0907780ed09ba4fb832d001817fdf3358827f0b4
